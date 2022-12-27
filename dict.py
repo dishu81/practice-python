@@ -13,3 +13,4 @@ dict1["school"]="nahi pata"
 print(dict1)
 dict1.pop("name")
 print(dict1)
+Dishumalviya098765
